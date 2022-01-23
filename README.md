@@ -1,1 +1,1 @@
-# Class-32-HWA
+# Project Template 26
